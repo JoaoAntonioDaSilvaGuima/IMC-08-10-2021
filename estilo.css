@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(27, 27, 27);
+  }
+  
+  header {
+    color: rgb(255, 244, 244);
+    text-align: center;
+  }
+  
+  p {
+      color: ivory;
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+  section{
+        background-color: aliceblue;
+        border-radius: 20px;
+        padding: 120px;
+        width: 300px;
+        margin:auto;
+  }
+
+  div{
+      
+      padding: 15px;
+  }
+
+  label{
+       font-size: 30px;
+  }
+
+  button{
+    width: 300px;
+    height: 30px;
+  }
